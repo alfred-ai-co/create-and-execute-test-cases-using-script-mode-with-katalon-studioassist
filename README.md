@@ -1,0 +1,1 @@
+# create-and-execute-test-cases-using-script-mode-with-katalon-studioassist
