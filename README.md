@@ -1,1 +1,1 @@
-# create-and-execute-test-cases-using-script-mode-with-katalon-studioassist
+# Create and Execute Test Cases Using Script Mode With Katalon StudioAssist:
